@@ -1,0 +1,2 @@
+Place the HAPI website mockup image here before giving the repository to Codex.
+Recommended filename: hapi-website-visual-reference.png
